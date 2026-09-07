@@ -1,1 +1,11 @@
-# pm-turi1-eda
+# Praktikum 1 - Eksplorasi Data (EDA)
+Mata Kuliah: Pembelajaran Mesin (INF62325)
+Nama : Kamalul Iman
+NIM : 2488010054
+## Ringkasan
+Praktikum eksplorasi data pada dataset Iris:
+pemeriksaan struktur, kualitas data, dan visualisasi.
+## Isi Repositori
+- PM_TuRi1_EDA_KamalulIman.ipynb : notebook praktikum
+## Temuan Utama
+- (tuliskan 2-3 temuan penting dari praktikum)
